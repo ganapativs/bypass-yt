@@ -1,13 +1,22 @@
 .App {
+  --color-light-secondary: #d5dce6;
+}
+
+@media (prefers-color-scheme: dark) {
+  .App {
+    --color-light-secondary: #333;
+  }
+}
+
+.App {
   --color-black: #555;
-  --color-black-dark: #333;
   text-align: center;
   padding: 10vh 0;
   color: var(--color-black);
   --form-border-color: transparent;
   --form-back-color: transparent;
-  --input-border-color: var(--color-black-dark);
-  --input-invalid-color: var(--color-black-dark);
+  --input-border-color: var(--color-light-secondary);
+  --input-invalid-color: var(--color-light-secondary);
   --a-link-color: var(--a-visited-color);
 }
 
@@ -26,7 +35,13 @@
   max-width: 100px;
   min-height: 100px;
   margin: 0 auto;
-  filter: invert(1);
+  opacity: 0.5;
+}
+
+@media (prefers-color-scheme: dark) {
+  .App img {
+    filter: invert(1);
+  }
 }
 
 .App h4 {

@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "focus-visible": "^5.0.1",
+    "mini.css": "^3.0.1",
     "preact": "^8.4.2",
     "preact-compat": "^3.19.0",
     "react": "^16.8.6",

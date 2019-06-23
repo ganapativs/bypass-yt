@@ -3998,6 +3998,11 @@ flush-write-stream@^1.0.0:
     inherits "^2.0.3"
     readable-stream "^2.3.6"
 
+focus-visible@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/focus-visible/-/focus-visible-5.0.1.tgz#8bbe2d938bf88f067a252d72ac3a1cb2c3cb4767"
+  integrity sha512-xmuzsbC+LsF8iHlbBUvLsM6sfqyeUCAJTq3GK9JboFAdCqdDt/d4XoeE9jWT3cct2NFs/BKZ8IM8Yjkk1wgO3Q==
+
 follow-redirects@^1.0.0:
   version "1.7.0"
   resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.7.0.tgz#489ebc198dc0e7f64167bd23b03c4c19b5784c76"
@@ -6080,6 +6085,11 @@ mini-css-extract-plugin@0.5.0:
     loader-utils "^1.1.0"
     schema-utils "^1.0.0"
     webpack-sources "^1.1.0"
+
+mini.css@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/mini.css/-/mini.css-3.0.1.tgz#f6236e99997bbd19484d5655d087ec96b887af68"
+  integrity sha512-FmuuBL0wuyDO1UA66TkAo8w2RxxuHmNPaUqUHcYlHtM9CJkrscQaNAJ/ParEahYFwtZOSgfEA7flbMoSPkzrPA==
 
 minimalistic-assert@^1.0.0, minimalistic-assert@^1.0.1:
   version "1.0.1"

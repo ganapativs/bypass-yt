@@ -42,7 +42,7 @@ function App() {
           autoFocus
           placeholder="https://www.youtube.com/watch?v=PzmFJRRxa7I"
         />
-        <button className=" shadowed" type="submit">
+        <button className="primary shadowed" type="submit">
           Bypass
         </button>
       </form>
