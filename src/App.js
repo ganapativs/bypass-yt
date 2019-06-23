@@ -1,5 +1,6 @@
 import React from "react";
 import "./App.css";
+import { Logo } from "./Logo";
 
 const onSubmit = e => {
   e.preventDefault();
@@ -18,12 +19,7 @@ const onSubmit = e => {
 function App() {
   return (
     <div className="App">
-      <img
-        src="/favicon.png"
-        alt="Bypass YT"
-        title="Bypass YT"
-        draggable={false}
-      />
+      <Logo />
       <form onSubmit={onSubmit} autoComplete="off">
         <h4>
           Enter the{" "}
