@@ -1,6 +1,8 @@
-# Bypass YT 👋
+# Bypass YT 😎
 
-  <img src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://app.netlify.com/sites/bypass-yt/deploys">
+    <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/8667b34a-5936-4a9c-bad9-731d42ffe248/deploy-status" target="_blank" />
+  </a>
   <a href="https://github.com/ganapativs/bypass-yt">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
   </a>
@@ -18,11 +20,15 @@ Bypass the age restricted content on YouTube
 
 It's frustrating to sign in "just" to watch the age restricted content on Youtube.
 
-This tiny tool uses [KISS principle](https://en.wikipedia.org/wiki/KISS_principle) and modifies age restricted YouTube url to YouTube embed url, which can be played without login.
+This tiny tool modifies age restricted YouTube url to YouTube embed url, which can be played without login.
 
-Warning: Use at your own risk 😬
+🔥 Tip: Bookmark [bypass-yt.netlify.com](https://bypass-yt.netlify.com) for faster access.
 
-## 🏠 [Homepage](https://bypass-yt.netlify.com)
+⚠️ Warning: Use at your own risk 😬
+
+## 🏠 Homepage
+
+[bypass-yt.netlify.com](https://bypass-yt.netlify.com)
 
 ## Author
 
