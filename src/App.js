@@ -55,7 +55,14 @@ function App() {
         >
           @ganapativs
         </a>{" "}
-        🎉
+        | Source code:{" "}
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://github.com/ganapativs/bypass-yt"
+        >
+          bypass-yt
+        </a>
       </p>
     </div>
   );
